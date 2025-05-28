@@ -9,6 +9,7 @@ The objective of this research is to extract metadata from Ponzi schemes that ar
 ### 1. **Ronen Mining Network**
 - **ID**: 1907488513605644291
 - **Username**: `@ronencoin`
+- **Profile Link**: [https://twitter.com/ronencoin](https://twitter.com/ronencoin)
 - **Name**: Ronen Mining Network
 - **Location**: Ronin Network
 - **Verified**: No
@@ -29,6 +30,7 @@ The objective of this research is to extract metadata from Ponzi schemes that ar
 ### 2. **Ronen Cars**
 - **ID**: 1921747251631722496
 - **Username**: `@RonenCars`
+- **Profile Link**: [https://twitter.com/RonenCars](https://twitter.com/RonenCars)
 - **Name**: Ronen Cars
 - **Location**: Ronin
 - **Verified**: No
@@ -50,6 +52,7 @@ The objective of this research is to extract metadata from Ponzi schemes that ar
 ### 3. **BomberRonin**
 - **ID**: 1916787246080069632
 - **Username**: `@BomberRonin`
+- **Profile Link**: [https://twitter.com/BomberRonin](https://twitter.com/BomberRonin)
 - **Name**: BomberRonin
 - **Location**: RONIN
 - **Verified**: No
