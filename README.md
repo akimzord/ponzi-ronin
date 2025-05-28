@@ -66,3 +66,25 @@ The objective of this research is to extract metadata from Ponzi schemes that ar
   - Listed: 5
   - Likes: 95
   - Media: 30
+
+---
+
+### 4. **CyptoMines.Ron**
+- **ID**: 1856475626674311168
+- **Username**: `@CryptoMinesRON`
+- **Profile Link**: [https://twitter.com/CryptoMinesRON](https://twitter.com/CryptoMinesRON)
+- **Name**: CyptoMines.Ron
+- **Location**: Odessa
+- **Verified**: No
+- **Created At**: 2024-11-12T23:14:30Z
+- **Description**:  
+  Game on the Ronin.  
+  Mine planets and earn.  
+  Grow your guild of interplanetary workers.
+- **Public Metrics**:
+  - Followers: 646
+  - Following: 1
+  - Tweets: 24
+  - Listed: 1
+  - Likes: 18
+  - Media: 6
